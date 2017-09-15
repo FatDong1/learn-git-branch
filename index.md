@@ -4,9 +4,3 @@
 
 哈哈
 
-### hi git merge --no-ff -m haha dev
-
-<<<<<<< HEAD
- 
-=======
->>>>>>> hi
