@@ -4,6 +4,7 @@
 
 哈哈
 
+<<<<<<< HEAD
 ### hi git merge --no-ff -m haha dev
 
->>>啦啦啦
+git pull
