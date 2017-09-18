@@ -4,9 +4,4 @@
 
 哈哈
 
-<<<<<<< HEAD
-### hi git merge --no-ff -m haha dev
-
-git pull
-
-hi branch
+```git stash```储存工作现场
