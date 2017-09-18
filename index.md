@@ -4,9 +4,6 @@
 
 哈哈
 
+<<<<<<< Updated upstream
 ### hi git merge --no-ff -m haha dev
 
-<<<<<<< HEAD
- 
-=======
->>>>>>> hi
